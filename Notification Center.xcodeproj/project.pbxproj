@@ -17,6 +17,7 @@
 		9AD3D83F29A5F14D00973A77 /* Notification_CenterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3D83E29A5F14D00973A77 /* Notification_CenterTests.swift */; };
 		9AD3D84929A5F14D00973A77 /* Notification_CenterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3D84829A5F14D00973A77 /* Notification_CenterUITests.swift */; };
 		9AD3D84B29A5F14D00973A77 /* Notification_CenterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3D84A29A5F14D00973A77 /* Notification_CenterUITestsLaunchTests.swift */; };
+		9AD3D85829A5F21600973A77 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD3D85729A5F21600973A77 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9AD3D84429A5F14D00973A77 /* Notification CenterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Notification CenterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AD3D84829A5F14D00973A77 /* Notification_CenterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification_CenterUITests.swift; sourceTree = "<group>"; };
 		9AD3D84A29A5F14D00973A77 /* Notification_CenterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification_CenterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9AD3D85729A5F21600973A77 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9AD3D82429A5F14300973A77 /* AppDelegate.swift */,
 				9AD3D82629A5F14300973A77 /* SceneDelegate.swift */,
 				9AD3D82829A5F14300973A77 /* ViewController.swift */,
+				9AD3D85729A5F21600973A77 /* SecondViewController.swift */,
 				9AD3D82A29A5F14300973A77 /* Main.storyboard */,
 				9AD3D83029A5F14C00973A77 /* Assets.xcassets */,
 				9AD3D83229A5F14C00973A77 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				9AD3D82929A5F14300973A77 /* ViewController.swift in Sources */,
 				9AD3D82529A5F14300973A77 /* AppDelegate.swift in Sources */,
 				9AD3D82F29A5F14300973A77 /* Notification_Center.xcdatamodeld in Sources */,
+				9AD3D85829A5F21600973A77 /* SecondViewController.swift in Sources */,
 				9AD3D82729A5F14300973A77 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
